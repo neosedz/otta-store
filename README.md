@@ -1,5 +1,5 @@
 # Otta store
-
+ 
 An online store on Cloudflare Workers: [EmDash](https://github.com/emdash-cms/emdash) for
 content and [Otta](https://github.com/UrumiAI/otta.sh) for commerce (catalog, stock, cart,
 checkout, orders, card payments with Stripe, cash on delivery). It runs as one Worker with
